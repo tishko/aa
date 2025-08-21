@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4,
+    "name": "D Show",
+    "genres": ["Drama"],
+    "rating": {
+      "average": 7.9
+    },
+    "image": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  {
+    "id": 5,
+    "name": "E Show",
+    "genres": ["Sci-Fi"],
+    "rating": {
+      "average": 8.8
+    },
+    "image": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  {
+    "id": 2,
+    "name": "B Show (dup)",
+    "genres": ["Drama", "Comedy"],
+    "rating": {
+      "average": 9.1
+    },
+    "image": {
+      "medium": "",
+      "original": ""
+    }
+  }
+]

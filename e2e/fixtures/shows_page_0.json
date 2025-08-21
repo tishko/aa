@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "A Show",
+    "genres": ["Drama"],
+    "rating": {
+      "average": 8.2
+    },
+    "image": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  {
+    "id": 2,
+    "name": "B Show",
+    "genres": ["Drama", "Comedy"],
+    "rating": {
+      "average": 9.1
+    },
+    "image": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  {
+    "id": 3,
+    "name": "C Show",
+    "genres": ["Comedy"],
+    "rating": {
+      "average": 7.5
+    },
+    "image": {
+      "medium": "",
+      "original": ""
+    }
+  }
+]

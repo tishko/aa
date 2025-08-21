@@ -1,0 +1,7 @@
+# Build & deps
+dist
+node_modules
+coverage
+
+# Generated
+*.min.*

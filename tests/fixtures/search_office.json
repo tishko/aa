@@ -1,0 +1,32 @@
+[
+  {
+    "score": 20.0,
+    "show": {
+      "id": 88,
+      "name": "The Office",
+      "genres": ["Comedy"],
+      "rating": {
+        "average": 9.0
+      },
+      "image": {
+        "medium": "",
+        "original": ""
+      }
+    }
+  },
+  {
+    "score": 13.0,
+    "show": {
+      "id": 99,
+      "name": "Office Party",
+      "genres": ["Comedy"],
+      "rating": {
+        "average": 6.2
+      },
+      "image": {
+        "medium": "",
+        "original": ""
+      }
+    }
+  }
+]
